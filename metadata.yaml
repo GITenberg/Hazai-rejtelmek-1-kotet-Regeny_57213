@@ -5,6 +5,9 @@ contributor:
     agent_name: Pataky, László
     gutenberg_agent_id: '49252'
     url: http://www.gutenberg.org/2009/agents/49252
+covers:
+- cover_type: archival
+  image_path: 57213-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuthy, Lajos
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57213#Hazai-rejtelmek-1-kotet-Regeny
 gutenberg_issued: '2018-05-25'
 gutenberg_type: Text
 identifiers:
